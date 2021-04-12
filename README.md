@@ -1,1 +1,3 @@
-# seoul_clone_2
+# seoul clone
+
+css got so much better!
